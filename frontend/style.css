@@ -1,0 +1,13 @@
+.carousel-inner {
+    height: 450px;
+}
+.carousel-item {
+    height: 450px; /* Adjust as needed */
+}
+.carousel-item img {
+    height: 100%; /* Ensures the image fills the item */ 
+}
+.carousel img {
+    max-height: 450px;
+    width: auto;
+}
